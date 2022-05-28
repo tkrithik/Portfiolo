@@ -220,7 +220,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "Who Am I?";
+    content: "What Have I Looked Into?";
 }
 .about .about-content .left{
     width: 45%;
